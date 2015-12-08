@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<items>
+  <item>
+    <name>NULL</name>
+    <category>NULL</category>
+    <subcategory>NULL</subcategory>
+    <special_ability>NULL</special_ability>
+    <aura>NULL</aura>
+    <caster_level>NULL</caster_level>
+    <price>NULL</price>
+    <manifester_level>NULL</manifester_level>
+    <prereq>NULL</prereq>
+    <cost>NULL</cost>
+    <weight>NULL</weight>
+    <full_text>NULL</full_text>
+    <reference>NULL</reference>
+  </item>
+</items>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<spells>
+  <spell>
+    <name>NULL</name>
+    <altname>NULL</altname>
+    <school>NULL</school>
+    <subschool>NULL</subschool>
+    <descriptor>NULL</descriptor>
+    <spellcraft_dc>NULL</spellcraft_dc>
+    <level>NULL</level>
+    <components>NULL</components>
+    <casting_time>NULL</casting_time>
+    <range>NULL</range>
+    <target>NULL</target>
+    <area>NULL</area>
+    <effect>NULL</effect>
+    <duration>NULL</duration>
+    <saving_throw>NULL</saving_throw>
+    <spell_resistance>NULL</spell_resistance>
+    <short_description>NULL</short_description>
+    <to_develop>NULL</to_develop>
+    <material_components>NULL</material_components>
+    <arcane_material_components>NULL</arcane_material_components>
+    <focus>NULL</focus>
+    <description>NULL</description>
+    <xp_cost>NULL</xp_cost>
+    <arcane_focus>NULL</arcane_focus>
+    <wizard_focus>NULL</wizard_focus>
+    <verbal_components>NULL</verbal_components>
+    <sorcerer_focus>NULL</sorcerer_focus>
+    <bard_focus>NULL</bard_focus>
+    <cleric_focus>NULL</cleric_focus>
+    <druid_focus>NULL</druid_focus>
+    <full_text>NULL</full_text>
+    <reference>NULL</reference>
+  </spell>
+</spells>

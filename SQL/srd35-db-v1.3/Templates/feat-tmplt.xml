@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<feats>
+  <feat>
+    <name>NULL</name>
+    <type>NULL</type>
+    <multiple>NULL</multiple>
+    <stack>NULL</stack>
+    <choice>NULL</choice>
+    <prerequisite>NULL</prerequisite>
+    <benefit>NULL</benefit>
+    <normal>NULL</normal>
+    <special>NULL</special>
+    <full_text>NULL</full_text>
+    <reference>NULL</reference>
+  </feat>
+</feats>

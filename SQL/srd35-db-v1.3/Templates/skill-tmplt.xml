@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<skills>
+  <skill>
+    <name>NULL</name>
+    <subtype>NULL</subtype>
+    <key_ability>NULL</key_ability>
+    <psionic>NULL</psionic>
+    <trained>NULL</trained>
+    <armor_check>NULL</armor_check>
+    <description>NULL</description>
+    <skill_check>NULL</skill_check>
+    <action>NULL</action>
+    <try_again>NULL</try_again>
+    <special>NULL</special>
+    <restriction>NULL</restriction>
+    <synergy>NULL</synergy>
+    <epic_use>NULL</epic_use>
+    <untrained>NULL</untrained>
+    <full_text>NULL</full_text>
+    <reference>NULL</reference>
+  </skill>
+</skills>

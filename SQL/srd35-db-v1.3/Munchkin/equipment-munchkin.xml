@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipments>
+  <equipment>
+    <name>Boots, Butt-Kicking</name>
+    <family>NULL</family>
+    <category>NULL</category>
+    <subcategory>NULL</subcategory>
+    <cost>15 gp</cost>
+    <dmg_s>1d4 Piercing</dmg_s>
+    <armor_shield_bonus>NULL</armor_shield_bonus>
+    <maximum_dex_bonus>NULL</maximum_dex_bonus>
+    <dmg_m>NULL</dmg_m>
+    <weight>5 lbs.</weight>
+    <critical>20/x2</critical>
+    <armor_check_penalty>NULL</armor_check_penalty>
+    <arcane_spell_failure_chance>NULL</arcane_spell_failure_chance>
+    <range_increment>NULL</range_increment>
+    <speed_30>NULL</speed_30>
+    <type>NULL</type>
+    <speed_20>NULL</speed_20>
+    <full_text>NULL</full_text>
+    <reference>NULL</reference>
+  </equipment>
+</equipments>

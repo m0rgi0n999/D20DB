@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<powers>
+  <power>
+    <name>NULL</name>
+    <discipline>NULL</discipline>
+    <subdiscipline>NULL</subdiscipline>
+    <descriptor>NULL</descriptor>
+    <level>NULL</level>
+    <display>NULL</display>
+    <manifesting_time>NULL</manifesting_time>
+    <ranged>NULL</ranged>
+    <target>NULL</target>
+    <area>NULL</area>
+    <effect>NULL</effect>
+    <duration>NULL</duration>
+    <saving_throw>NULL</saving_throw>
+    <power_points>NULL</power_points>
+    <power_resistance>NULL</power_resistance>
+    <short_description>NULL</short_description>
+    <xp_cost>NULL</xp_cost>
+    <description>NULL</description>
+    <augment>NULL</augment>
+    <full_text>NULL</full_text>
+    <reference>NULL</reference>
+  </power>
+</powers>
