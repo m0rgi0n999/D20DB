@@ -34,22 +34,35 @@
     <choice>NULL</choice>
     <prerequisite>Int 13+</prerequisite>
     <benefit>You gain a +2 competence bonus to Bluff checks to convince someone that you are unarmed or to hide a weapon on your person. You may draw a hidden weapon as a move-equivalent action rather than retreiving it as a stored item.</benefit>
-    <normal>NULL</normal>
-    <special>NULL</special>
-    <full_text>NULL</full_text>
-    <reference>NULL</reference>
+    <normal>Pulling out a hidden weapon normally counts as a retreiving a stored item, which draws an attack of oppertunity. This feat makes that action equivalent of drawing a weapon, which does not provoke an attack of oppertunity.</normal>
+    <special>If you have the Quick Draw feat, drawing a hidden weapon is a free action and yougain a +2 bonus for the first attack. In addition, if you succeed at a Bluff check during this first attack, your opponent is caught flat-footed. This Bluff check is a free action.</special>
+    <full_text>You are addept at keeping a weapon hidden on your person in such a way that you can draw it without any undue trouble. You often have to go into areas where openly wearing weapons is frowned, or you have often hidden a weapon in easy reach in order to get the drop on an opponent.</full_text>
+    <reference>AEG-Dragons</reference>
   </feat>
   <feat>
-    <name>NULL</name>
-    <type>NULL</type>
+    <name>Contortionist</name>
+    <type>General</type>
     <multiple>NULL</multiple>
     <stack>NULL</stack>
     <choice>NULL</choice>
-    <prerequisite>NULL</prerequisite>
-    <benefit>NULL</benefit>
+    <prerequisite>Dex 13+</prerequisite>
+    <benefit>You gain a +4 competence bonus on all Escape Artist checks made to escape a grapple attack or to avoid being swallowed whole by a large monster.</benefit>
     <normal>NULL</normal>
     <special>NULL</special>
-    <full_text>NULL</full_text>
-    <reference>NULL</reference>
+    <full_text>You are adept at contorting yourself in  order to escape the grasp of others.</full_text>
+    <reference>AEG-Dragons</reference>
+  </feat>
+  <feat>
+    <name>Dragon Friend</name>
+    <type>General</type>
+    <multiple>NULL</multiple>
+    <stack>NULL</stack>
+    <choice>NULL</choice>
+    <prerequisite>Cha 13+, Int 13+, Ability to Speak Draconic.</prerequisite>
+    <benefit>When confronted by a dragon, you gain a +2 competence bonus to Diplomacy checks and saves against the dragon's frightful presence. In addition, you can consult with your allied dragon for aid. It is capable of casting spells for you at the normal gp rate charged by NPC spell casters. The dragon never aids you in your adventures, but it may offer advice and other support. The dragon likes you, but does not risk its life for you.</benefit>
+    <normal>NULL</normal>
+    <special>You must take this feat at 1st level. You may take it at later levels only if the GM rules that you've earned a dragon's friendship through play.</special>
+    <full_text>You, your ancestors, your relatives, or an ally has a strong, friendly relationship with a dragon. While the dragon is not at your beck and call, you've grown up around a dragon and are used to dealing with them. Their unique psychology and motivations are familiar to you, and you consider them to be as familiar as the adventuring races.</full_text>
+    <reference>AEG-Dragons</reference>
   </feat>
 </feats>
