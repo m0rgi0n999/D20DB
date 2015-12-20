@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<classes>
+  <class>
+    <name>NULL</name>
+    <type>NULL</type>
+    <alignment>NULL</alignment>
+    <hit_die>NULL</hit_die>
+    <class_skills>NULL</class_skills>
+    <skill_points>NULL</skill_points>
+    <skill_points_ability>NULL</skill_points_ability>
+    <spell_stat>NULL</spell_stat>
+    <proficiencies>NULL</proficiencies>
+    <spell_type>NULL</spell_type>
+    <epic_feat_base_level>NULL</epic_feat_base_level>
+    <epic_feat_interval>NULL</epic_feat_interval>
+    <epic_feat_list>NULL</epic_feat_list>
+    <epic_full_text>NULL</epic_full_text>
+    <req_race>NULL</req_race>
+    <req_weapon_proficiency>NULL</req_weapon_proficiency>
+    <req_base_attack_bonus>NULL</req_base_attack_bonus>
+    <req_skill>NULL</req_skill>
+    <req_feat>NULL</req_feat>
+    <req_spells>NULL</req_spells>
+    <req_languages>NULL</req_languages>
+    <req_psionics>NULL</req_psionics>
+    <req_epic_feat>NULL</req_epic_feat>
+    <req_special>NULL</req_special>
+    <spell_list_1>NULL</spell_list_1>
+    <spell_list_2>NULL</spell_list_2>
+    <spell_list_3>NULL</spell_list_3>
+    <spell_list_4>NULL</spell_list_4>
+    <spell_list_5>NULL</spell_list_5>
+    <full_text>NULL</full_text>
+    <reference>NULL</reference>
+  </class>
+</classes>

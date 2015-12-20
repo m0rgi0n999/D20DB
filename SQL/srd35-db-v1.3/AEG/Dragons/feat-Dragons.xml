@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<feats>
+  <feat>
+    <name>Animal Friend</name>
+    <type>General</type>
+    <multiple>NULL</multiple>
+    <stack>NULL</stack>
+    <choice>NULL</choice>
+    <prerequisite>Cha 13+</prerequisite>
+    <benefit>You Gain a +2 competence bonus to Animal Empathy and Handle Animal</benefit>
+    <normal>NULL</normal>
+    <special>NULL</special>
+    <full_text>You quickly form an empathic relationship with unintelegent animals, relying on your natural talent and charisma to form tight bonds with them. In particular, you are extremelu adept at handling and training newborn creatures of all types, from dog to dragons</full_text>
+    <reference>AEG-Dragons</reference>
+  </feat>
+  <feat>
+    <name>Area of Expertise</name>
+    <type>General</type>
+    <multiple>Yes</multiple>
+    <stack>No</stack>
+    <choice>NULL</choice>
+    <prerequisite>Int 13+</prerequisite>
+    <benefit>You gain a +2 competence bonus to Knowledge checks in your chosen field. In addition, when using Gather Information to uncover rumors connected to your area you gain a +2 competence bonus.</benefit>
+    <normal>NULL</normal>
+    <special>You can gain this feat multiple times. Its effects do not stack. Each time you choose this feat, you gain it in a new area of study. You may choose any topic covered by a Knowledge skill for this feat.</special>
+    <full_text>You have done tremendous amounts of research into a single area. Not only have you poured a lot of energy into the academic study of the subject, but you are also well-connected to the current rumors and news concerning that topic.</full_text>
+    <reference>AEG-Dragons</reference>
+  </feat>
+  <feat>
+    <name>Conceal Weapon</name>
+    <type>General</type>
+    <multiple>NULL</multiple>
+    <stack>NULL</stack>
+    <choice>NULL</choice>
+    <prerequisite>Int 13+</prerequisite>
+    <benefit>You gain a +2 competence bonus to Bluff checks to convince someone that you are unarmed or to hide a weapon on your person. You may draw a hidden weapon as a move-equivalent action rather than retreiving it as a stored item.</benefit>
+    <normal>NULL</normal>
+    <special>NULL</special>
+    <full_text>NULL</full_text>
+    <reference>NULL</reference>
+  </feat>
+  <feat>
+    <name>NULL</name>
+    <type>NULL</type>
+    <multiple>NULL</multiple>
+    <stack>NULL</stack>
+    <choice>NULL</choice>
+    <prerequisite>NULL</prerequisite>
+    <benefit>NULL</benefit>
+    <normal>NULL</normal>
+    <special>NULL</special>
+    <full_text>NULL</full_text>
+    <reference>NULL</reference>
+  </feat>
+</feats>

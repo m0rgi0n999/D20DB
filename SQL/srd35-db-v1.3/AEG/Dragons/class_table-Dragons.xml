@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<class_tables>
+  <class_table>
+    <name>NULL</name>
+    <level>NULL</level>
+    <base_attack_bonus>NULL</base_attack_bonus>
+    <fort_save>NULL</fort_save>
+    <ref_save>NULL</ref_save>
+    <will_save>NULL</will_save>
+    <caster_level>NULL</caster_level>
+    <points_per_day>NULL</points_per_day>
+    <ac_bonus>NULL</ac_bonus>
+    <flurry_of_blows>NULL</flurry_of_blows>
+    <bonus_spells>NULL</bonus_spells>
+    <powers_known>NULL</powers_known>
+    <unarmored_speed_bonus>NULL</unarmored_speed_bonus>
+    <unarmed_damage>NULL</unarmed_damage>
+    <power_level>NULL</power_level>
+    <special>NULL</special>
+    <slots_0>NULL</slots_0>
+    <slots_1>NULL</slots_1>
+    <slots_2>NULL</slots_2>
+    <slots_3>NULL</slots_3>
+    <slots_4>NULL</slots_4>
+    <slots_5>NULL</slots_5>
+    <slots_6>NULL</slots_6>
+    <slots_7>NULL</slots_7>
+    <slots_8>NULL</slots_8>
+    <slots_9>NULL</slots_9>
+    <spells_known_0>NULL</spells_known_0>
+    <spells_known_1>NULL</spells_known_1>
+    <spells_known_2>NULL</spells_known_2>
+    <spells_known_3>NULL</spells_known_3>
+    <spells_known_4>NULL</spells_known_4>
+    <spells_known_5>NULL</spells_known_5>
+    <spells_known_6>NULL</spells_known_6>
+    <spells_known_7>NULL</spells_known_7>
+    <spells_known_8>NULL</spells_known_8>
+    <spells_known_9>NULL</spells_known_9>
+    <reference>NULL</reference>
+  </class_table>
+</class_tables>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<monsters>
+  <monster>
+    <family>NULL</family>
+    <name>NULL</name>
+    <altname>NULL</altname>
+    <size>NULL</size>
+    <type>NULL</type>
+    <descriptor>NULL</descriptor>
+    <hit_dice>NULL</hit_dice>
+    <initiative>NULL</initiative>
+    <speed>NULL</speed>
+    <armor_class>NULL</armor_class>
+    <base_attack>NULL</base_attack>
+    <grapple>NULL</grapple>
+    <attack>NULL</attack>
+    <full_attack>NULL</full_attack>
+    <space>NULL</space>
+    <reach>NULL</reach>
+    <special_attack>NULL</special_attack>
+    <special_qualities>NULL</special_qualities>
+    <saves>NULL</saves>
+    <abilities>NULL</abilities>
+    <skills>NULL</skills>
+    <bonus_feats>NULL</bonus_feats>
+    <feats>NULL</feats>
+    <epic_feats>NULL</epic_feats>
+    <environment>NULL</environment>
+    <organization>NULL</organization>
+    <challenge_rating>NULL</challenge_rating>
+    <treasure>NULL</treasure>
+    <alignment>NULL</alignment>
+    <advancement>NULL</advancement>
+    <level_adjustment>NULL</level_adjustment>
+    <special_abilities>NULL</special_abilities>
+    <stat_block>NULL</stat_block>
+    <full_text>NULL</full_text>
+    <reference>NULL</reference>
+  </monster>
+</monsters>
